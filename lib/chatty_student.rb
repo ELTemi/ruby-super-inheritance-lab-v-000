@@ -7,15 +7,14 @@ class ChattyStudent < Student
 
   def raise_hand
     super
-    @in_class =
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
-    puts "Pick me!"
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    
   end
 end
